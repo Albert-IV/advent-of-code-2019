@@ -5,7 +5,7 @@
 | Day                        | Part One                                        | Part Two                                        |
 | -------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 |                            | Elm                                             | Elm                                             |
-| [Day 1](./src/2019/day01/) | [Complete](./src/day-1/part-1/elm/src/Main.elm) | [Complete](./src/day-1/part-1/elm/src/Main.elm) |
+| [Day 1](./src/day-1/) | [Complete](./src/day-1/part-1/elm/src/Main.elm) | [Complete](./src/day-1/part-1/elm/src/Main.elm) |
 | Day 2                      |                                                 |                                                 |
 | Day 3                      |                                                 |                                                 |
 | Day 4                      |                                                 |                                                 |
